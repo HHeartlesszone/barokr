@@ -1,0 +1,2 @@
+# barokr
+Data structur
